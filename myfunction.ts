@@ -3,3 +3,12 @@ function addTwo(num:number){
 }
 
 addTwo(5)
+
+function getUpper(val:string)
+{
+    return val.toUpperCase
+
+
+}
+
+getUpper("sri")
